@@ -1,5 +1,5 @@
 # Power BI projekt: ...
-Výstup Power BI projektu vypracovaného během kurzu Datová Akademie od Engeta.
+Výstup Power BI projektu vypracovaného během kurzu Datová Akademie od Engeta.   
 _Results of a Power BI project completed during the Data Academy course by Engeto._
 ## Základní informace
 Repozitář obsahuje druhý ze dvou projektů vypracovaných v rámci kurzu Datová akademie od společnosti Engeto. Tento projekt se zaměřuje na ... a jeho cílem je v Power BI vizualizovat ...
