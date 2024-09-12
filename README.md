@@ -12,4 +12,5 @@ Repozitář obsahuje druhý ze dvou projektů vypracovaných v rámci kurzu Dato
 * vytvoření minimálně jedné measure a jednoho kalkulovaného sloupce
 * vizuálně přívětivá grafická úprava výsledného reportu
 ## Téma projektu
-Vypracovaný report se zaměřuje na porodnost a plodnost v Česku mezi lety 2001 a 2022. Ve vizualizaci je zahrnuta ...
+Vypracovaný report se zaměřuje na porodnost a plodnost v Česku mezi lety 2001 a 2022. Ve vizualizaci je zahrnuta ...  
+Všechna data využitá k tvorbě vizualizace pochází z Českého statistického úřadu.
