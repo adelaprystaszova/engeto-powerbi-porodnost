@@ -9,7 +9,7 @@ Repozitář obsahuje druhý ze dvou projektů vypracovaných v rámci kurzu Dato
 * využití bookmark/page navigation
 * propojení více datových zdrojů
 * využití datové hierarchie, pokud to data umožňují
-* vytvoření minimálně jedné measure a jednoho kalkulovaného sloupce
+* vytvoření minimálně jedné míry a jednoho kalkulovaného sloupce
 * vizuálně přívětivá grafická úprava výsledného reportu
 ## Téma projektu
 Vypracovaný report se zaměřuje na porodnost a plodnost v Česku mezi lety 2001 a 2022. Ve vizualizaci je zahrnuta ...  
