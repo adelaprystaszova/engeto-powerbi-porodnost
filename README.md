@@ -2,6 +2,7 @@
 Výstup Power BI projektu vypracovaného během kurzu Datová Akademie od Engeta.   
 _Results of a Power BI project completed during the Data Academy course by Engeto._
 ## Základní informace a zadání projektu
+
 Repozitář obsahuje druhý ze dvou projektů vypracovaných v rámci kurzu Datová akademie od společnosti Engeto. V tomto projektu bylo úkolem vizualizovat pomocí Power BI vybraný vlastní dataset. Kritéria, která musela vizualizace splňovat, byla následující:
 * rozsah 2–5 stran
 * minimálně 5 různých typů vizuálů
@@ -14,3 +15,6 @@ Repozitář obsahuje druhý ze dvou projektů vypracovaných v rámci kurzu Dato
 ## Téma projektu
 Vypracovaný report se zaměřuje na porodnost a plodnost v Česku od začátku 21. století. Ve vizualizaci jsou zahrnuty nejdůležitější rozdíly mezi porodností a plodností v letech 2001 a 2022, detailní data o porodnosti, ale i vývoj plodnosti v celém období 2001–2022. Důraz je kladen i na regionální diferenciaci.  
 Všechna data využitá k tvorbě vizualizace pochází z Českého statistického úřadu.
+&nbsp;
+
+Discord: adela6286  
