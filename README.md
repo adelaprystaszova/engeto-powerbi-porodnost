@@ -6,7 +6,7 @@ Repozitář obsahuje druhý ze dvou projektů vypracovaných v rámci kurzu Dato
 * rozsah 2–5 stran
 * minimálně 5 různých typů vizuálů
 * využití slicerů
-* využití bookmark/page navigation
+* využití bookmarks/page navigation
 * propojení více datových zdrojů
 * využití datové hierarchie, pokud to data umožňují
 * vytvoření minimálně jedné míry a jednoho kalkulovaného sloupce
