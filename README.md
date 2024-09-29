@@ -6,11 +6,11 @@ Repozitář obsahuje druhý ze dvou projektů vypracovaných v rámci kurzu Dato
 * rozsah 2–5 stran
 * minimálně 5 různých typů vizuálů
 * využití slicerů
-* využití bookmarks/page navigation
+* využití bnavigátoru stránek/záložky
 * propojení více datových zdrojů
 * využití datové hierarchie, pokud to data umožňují
 * vytvoření minimálně jedné míry a jednoho kalkulovaného sloupce
 * vizuálně přívětivá grafická úprava výsledného reportu
 ## Téma projektu
-Vypracovaný report se zaměřuje na porodnost a plodnost v Česku mezi lety 2001 a 2022. Ve vizualizaci je zahrnuta ...  
+Vypracovaný report se zaměřuje na porodnost a plodnost v Česku od začátku 21. století. Ve vizualizaci jsou zahrnuty nejdůležitější rozdíly mezi porodností a plodností v letech 2001 a 2022, detailní data o porodnosti, ale i vývoj plodnosti v celém období 2001–2022. Důraz je kladen i na regionální diferenciaci.  
 Všechna data využitá k tvorbě vizualizace pochází z Českého statistického úřadu.
