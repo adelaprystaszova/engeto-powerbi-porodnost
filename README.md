@@ -18,5 +18,5 @@ Repozitář obsahuje druhý ze dvou projektů vypracovaných v rámci kurzu Dato
 Vypracovaný report se zaměřuje na porodnost a plodnost v Česku od začátku 21. století. Ve vizualizaci jsou zahrnuty nejdůležitější rozdíly mezi porodností a plodností v letech 2001 a 2022, detailní data o porodnosti, ale i vývoj plodnosti v celém období 2001–2022. Důraz je kladen i na regionální diferenciaci.  
 Všechna data využitá k tvorbě vizualizace pochází z Českého statistického úřadu.
 ## Struktura repozitáře   
-* __engeto-powerbi-porodnost.pbix__: Výstup v Power BI.
-* __engeto-powerbi-porodnost.pdf__: Pdf soubor umožňující nahlédnout na Power BI výstup bez interaktivity.
+* __engeto-porodnost.pbix__: Výstup v Power BI.
+* __engeto-porodnost.pdf__: Pdf soubor umožňující nahlédnout na Power BI výstup bez interaktivity.
